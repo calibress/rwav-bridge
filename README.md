@@ -2,11 +2,11 @@
 
 <!-- macos-download:start -->
 ## Download — macOS (latest)
-- Version: v1.1.4-rc.16
+- Version: v1.1.4-rc.17
 
 
-- Installer: https://github.com/calibress/rwav-bridge/releases/download/v1.1.4-rc.16/RWAV-Bridge-v1.1.4-rc.16-macos-silicon.pkg
-- SHA256: cf60fb70e78274feb09162d9b4ecf61f1c6653ab01f92b5a842cde46e7ce496b
+- Installer: https://github.com/calibress/rwav-bridge/releases/download/v1.1.4-rc.17/RWAV-Bridge-v1.1.4-rc.17-macos-silicon.pkg
+- SHA256: 6dd7153acd04c4cabdc5d2d38e34d001b9692c248886065fae34bcca0ddec962
 
 Coming next: Windows and Linux builds (portable zips and installers).
 <!-- macos-download:end -->
