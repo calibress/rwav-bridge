@@ -6,7 +6,7 @@
 
 
 - Installer: https://github.com/calibress/rwav-bridge/releases/download/v1.1.4-rc.26/RWAV-Bridge-v1.1.4-rc.26-macos-silicon.pkg
-- SHA256: 4eeaa97d4fe231367efbc34dd0e07f1076f1a7a7ef573a32dc913d80381088e0
+- SHA256: 78a48f28469a6bae95a8f4b96a781baed3fca1d218211ff49da8d877ce02f34a
 
 Coming next: Windows and Linux builds (portable zips and installers).
 <!-- macos-download:end -->
