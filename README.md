@@ -2,7 +2,7 @@
 
 <!-- macos-download:start -->
 ## Download — macOS (latest)
-- Version: v1.1.4-rc.26
+- Version: v1.1.6
 
 
 - Installer: https://github.com/calibress/rwav-bridge/releases/download/v1.1.4-rc.26/RWAV-Bridge-v1.1.4-rc.26-macos-silicon.pkg
